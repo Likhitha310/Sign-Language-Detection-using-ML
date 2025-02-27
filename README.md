@@ -51,7 +51,7 @@ To set up the project on your local machine, follow these steps:
 2. Install Dependencies:
    Ensure you have Python installed. Install the required packages using:
    ```bash
-   pip install r req.txt
+   pip install -r req.txt
    ```
 
 
